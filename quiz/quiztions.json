@@ -1,0 +1,54 @@
+{
+    "easy": {
+        "q1":{
+            "question": "What's 2+2?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correctAnswer": "4"
+        },
+        "q2":{
+            "question": "What's the name of your country?",
+            "options": [
+                "England",
+                "Sofia",
+                "Bulgaria",
+                "Vietnam"
+            ] ,
+            "correctAnswer": "Bulgaria"
+        },
+        "q3":{
+            "question": "Which of these is an animal?",
+            "options": [
+                "Cycle",
+                "Cat",
+                "Mouse",
+                "Pot"
+            ],
+            "correctAnswer": "Cat"
+        },
+        "q4":{
+            "question": "Marco?",
+            "options": [
+                "Tozzi",
+                "Reus",
+                "Venti",
+                "Polo"
+            ],
+            "correctAnswer": "Polo"
+        },
+        "q5":{
+            "question": "Something that cuts?",
+            "options": [
+                "Scissors",
+                "Paper",
+                "Fork",
+                "Stick"
+            ],
+            "correctAnswer": "Scissors"
+        }
+    }
+}
